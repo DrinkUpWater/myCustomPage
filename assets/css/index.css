@@ -1,0 +1,18 @@
+@media screen and (max-width: 980px) {
+
+		#main .image {
+			width: 100%;
+			min-width: 100%;
+			float: none;
+			margin: 0 0 2rem 0;
+		}
+
+			#main .image img {
+				width: 100%;
+			}
+
+	}
+
+div[id=my1]{
+    margin: 10%;
+}
